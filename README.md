@@ -79,7 +79,8 @@ int main() {
 }
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/883f3f22-fa71-4b01-b625-a4f278097f66)
+![WhatsApp Image 2025-05-02 at 15 08 51_4a28a9b9](https://github.com/user-attachments/assets/4368d211-a6cf-4ea8-9018-1ece861c5c2b)
+
 
 
 # RESULT
