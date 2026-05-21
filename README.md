@@ -80,7 +80,7 @@ int main() {
 }
 ```
 # OUTPUT
-![WhatsApp Image 2025-05-02 at 15 08 51_4a28a9b9](https://github.com/user-attachments/assets/4368d211-a6cf-4ea8-9018-1ece861c5c2b)
+<img width="942" height="738" alt="image" src="https://github.com/user-attachments/assets/c0fc34be-0230-4a25-9848-466cb33621a5" />
 
 
 
